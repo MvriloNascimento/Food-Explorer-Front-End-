@@ -29,7 +29,6 @@ It was produced with the following
 The Food Explorer is a restaurant web application. After registering, the user will be able to create orders and track their status. There is also a profile customization, favorite filtering, search field, and contact section with the restaurant. The cart is 100% functional and the user can choose between 2 payment methods (Credit Card or Pix)
 The administrator can create/edit/remove dishes as they wish. They can also change the status of the orders, according to their preparation line in the kitchen. This status will be immediately updated on the consumers' screen.
 ## 🔖 Project Layout
-Page from SignIn
 ![PRO2-1](./public/Homepage.png)
 <br>
 <br>
@@ -81,13 +80,13 @@ https://efficient-sloth-d85.notion.site/Guia-de-resolu-o-Desafio-final-b38a81fe7
 - Start by cloning the project:
 
 ```bash
-  $ https://github.com/MvriloNascimento/Food-Explorer-Back-End-.git
+  $ https://github.com/MvriloNascimento/Food-Explorer-Front-End-.git
 ```
 
 - Enter the directory:
 
 ```bash 
-  $ cd + sua pasta + git clone https://github.com/MvriloNascimento/Food-Explorer-Back-End-.git
+  $ cd + sua pasta + git clone https://github.com/MvriloNascimento/Food-Explorer-Front-End-.git
 ```
 
 - Install dependencies:
