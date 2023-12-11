@@ -75,6 +75,8 @@ https://efficient-sloth-d85.notion.site/Guia-de-resolu-o-Desafio-final-b38a81fe7
 
 ## :bulb: Utilização
 
+!!RECOMMENDED!!
+
 - Local Test
 
 - Start by cloning the project:
@@ -115,7 +117,6 @@ https://efficient-sloth-d85.notion.site/Guia-de-resolu-o-Desafio-final-b38a81fe7
 
 
 ## Test in Website
-!!RECOMMENDED!!
 - Want to see how the application works from the administrator's or user's perspective?
 - Use the following accounts:
 - As an administrator: email: admin@admin.com password: admin123
