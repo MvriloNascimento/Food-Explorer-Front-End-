@@ -73,7 +73,7 @@ https://efficient-sloth-d85.notion.site/Guia-de-resolu-o-Desafio-final-b38a81fe7
 <br>
 <br>
 
-## :bulb: Utilização
+## :bulb: Use
 
 !!RECOMMENDED!!
 
